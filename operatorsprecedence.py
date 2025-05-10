@@ -14,3 +14,4 @@ if name == "alex" and name == "diyan" or age <= 2:
     print("Hello")
 else:
     print("GoodBye")
+print(9%5)
